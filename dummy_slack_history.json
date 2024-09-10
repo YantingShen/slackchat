@@ -1,0 +1,47 @@
+[
+    {
+        "text": "Hello everyone! Welcome to the channel.",
+        "user": "U01",
+        "ts": "1610000000.000100"
+    },
+    {
+        "text": "Hi! Thanks for the warm welcome.",
+        "user": "U02",
+        "ts": "1610000001.000200"
+    },
+    {
+        "text": "Does anyone have updates on the project?",
+        "user": "U01",
+        "ts": "1610000002.000300"
+    },
+    {
+        "text": "Yes, we are on track for the deadline.",
+        "user": "U03",
+        "ts": "1610000003.000400"
+    },
+    {
+        "text": "Great to hear! Keep up the good work.",
+        "user": "U01",
+        "ts": "1610000004.000500"
+    },
+    {
+        "text": "PR #123 has been merged to deploy the apple service to customer A.",
+        "user": "U04",
+        "ts": "1610000005.000600"
+    },
+    {
+        "text": "PR #124 has been merged to deploy the apple service to customer B.",
+        "user": "U04",
+        "ts": "1610000006.000700"
+    },
+    {
+        "text": "PR #125 has been merged to deploy the apple service to customer C.",
+        "user": "U04",
+        "ts": "1610000007.000800"
+    },
+    {
+        "text": "PR #126 has been merged to deploy the apple service to customer D.",
+        "user": "U04",
+        "ts": "1610000008.000900"
+    }
+]
